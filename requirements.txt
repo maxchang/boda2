@@ -1,12 +1,13 @@
 ipykernel
 scikit-learn
 
+torch==1.13.1
 lightning==1.9.5
 pyro-ppl
 cmake
 pykeops
 gpytorch
-numpy
+numpy==1.26.0
 pandas
 scipy
 seaborn
